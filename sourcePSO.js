@@ -1,3 +1,6 @@
+
+// https://github.com/adamstirtan/pso-js/blob/master/index.html source
+
 class Particle {
     constructor(x, y) {
         this.x = x;
